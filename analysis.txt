@@ -1,0 +1,6 @@
+Number of paragraphes: 2
+Number of sentences: 32
+Number of words: 0
+Average words per sentence: 0.0
+Number of different words: 2
+Text variety (different words/total words: 0.0
