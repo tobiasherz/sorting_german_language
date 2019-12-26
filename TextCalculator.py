@@ -4,6 +4,7 @@ import configparser
 from collections import Counter
 
 
+
 class TextCalculator:
 
     def __init__(self, sent_counter):
